@@ -1,0 +1,13 @@
+pyautogui
+pygetwindow
+platform
+opencv-python
+mediapipe
+ultralytics
+cvzone
+comtypes
+pycaw
+ctypes
+pynput
+webbrowser
+subprocess
